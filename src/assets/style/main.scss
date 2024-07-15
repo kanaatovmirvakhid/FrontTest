@@ -1,0 +1,12 @@
+body {
+    background-color: #1D1D1D;
+}
+#app {
+    padding: 32px;
+}
+
+@media(max-width: 530px){
+    #app {
+        padding: 20px;
+    }
+}
