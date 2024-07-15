@@ -7,7 +7,7 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 
 
 # Install
-git clone https://github.com/kanaatovmirvakhid/FrontTest
-cd FrontTest
-yarn OR npm install
-yarn dev OR npm run dev
+git clone https://github.com/kanaatovmirvakhid/FrontTest  
+cd FrontTest  
+yarn OR npm install  
+yarn dev OR npm run dev  
